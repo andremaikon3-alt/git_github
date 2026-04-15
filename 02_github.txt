@@ -1,1 +1,18 @@
-GitHub é uma plataforma que utiliza o Git para armazenar, versionar e colaborar em projetos de software na nuvem.
+A=3 B=5
+
+A==B - FALSE
+A!=B - TRUE
+A>B - FALSE
+A<B - TRUE
+A>=B - FALSE
+A<=B - TRUE
+
+
+A=6 B=A
+
+A==B - TRUE
+A!=B - FALSE
+A>B - FALSE
+A<B - FALSE
+A>=B - TRUE
+A<=B - TRUE
